@@ -103,7 +103,7 @@ displayed if the 'eventbrite' field in the header is not set.
   </li>
   <li>
     <a id="s_lc_event_10204864" href="https://calendar.library.ucla.edu/event/10204864">REGISTER for Version Control (GIT)(Feb. 9)</a>
-   <li>
+   </li>
  </ul>
 
 
