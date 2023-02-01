@@ -88,6 +88,8 @@ displayed if the 'eventbrite' field in the header is not set.
 {% endif %}
 
 <!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_10204507" matches with the above code: jQuery("#s_lc_event_10204507")  //-->
+<h2 id="register"> Register</h2>
+
 <ul>
   <li>
 <a id="s_lc_event_10204507" href="https://calendar.library.ucla.edu/calendar/data-science-center/carpentries-w23-unix">REGISTER for Unix Shell</a>
@@ -96,6 +98,11 @@ displayed if the 'eventbrite' field in the header is not set.
   <li>
     <a id="s_lc_event_10204794" href="https://calendar.library.ucla.edu/event/10204794">REGISTER for Python Day 1</a>
   </li>
+  <li>
+    <a id="s_lc_event_10204831" href="https://calendar.library.ucla.edu/event/10204831">REGISTER for Python Day 2</a>
+  </li>
+  <li>
+    <a id="s_lc_event_10204864" href="https://calendar.library.ucla.edu/event/10204864">REGISTER for Version Control (GIT)</a>
  </ul>
 
 
