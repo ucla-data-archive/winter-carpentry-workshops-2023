@@ -92,17 +92,17 @@ displayed if the 'eventbrite' field in the header is not set.
 
 <ul>
   <li>
-<a id="s_lc_event_10204507" href="https://calendar.library.ucla.edu/calendar/data-science-center/carpentries-w23-unix">REGISTER for Unix Shell</a>
+<a id="s_lc_event_10204507" href="https://calendar.library.ucla.edu/calendar/data-science-center/carpentries-w23-unix">REGISTER for Unix Shell (Feb. 6)</a>
 <!-- Below is optional element styling  //-->
   </li>
   <li>
-    <a id="s_lc_event_10204794" href="https://calendar.library.ucla.edu/event/10204794">REGISTER for Python Day 1</a>
+    <a id="s_lc_event_10204794" href="https://calendar.library.ucla.edu/event/10204794">REGISTER for Python Day 1 (Feb. 7)</a>
   </li>
   <li>
-    <a id="s_lc_event_10204831" href="https://calendar.library.ucla.edu/event/10204831">REGISTER for Python Day 2</a>
+    <a id="s_lc_event_10204831" href="https://calendar.library.ucla.edu/event/10204831">REGISTER for Python Day 2 (Feb. 8)</a>
   </li>
   <li>
-    <a id="s_lc_event_10204864" href="https://calendar.library.ucla.edu/event/10204864">REGISTER for Version Control (GIT)</a>
+    <a id="s_lc_event_10204864" href="https://calendar.library.ucla.edu/event/10204864">REGISTER for Version Control (GIT)(Feb. 9)</a>
  </ul>
 
 
