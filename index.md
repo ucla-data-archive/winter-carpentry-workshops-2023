@@ -114,11 +114,10 @@ Please register separately for each workshop in the series.</br>
 }
 #s_lc_event_7627923:hover {
   opacity: 0.9;
-}
-<a id="s_lc_event_10204507" href="https://calendar.library.ucla.edu/calendar/data-science-center/carpentries-w23-unix">REGISTER for Unix Shell (Feb. 6)</a>  </style>
+}</style>
 </td> </tr>
-<tr> <td>April 23, 9 am - 12:30 pm </td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627930" matches with the above code: jQuery("#s_lc_event_7627930")  //-->
-<a id="s_lc_event_7627930" href="https://calendar.library.ucla.edu/event/7627930">Intro to Git/Github</a>
+<tr> <td>Feb 7, 9 am - 12:30 pm </td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627930" matches with the above code: jQuery("#s_lc_event_7627930")  //-->
+a id="s_lc_event_10204794" href="https://calendar.library.ucla.edu/event/10204794">REGISTER for Python Day 1 (Feb. 7)</a>  
 <!-- Below is optional element styling  //-->
 <style>
 #s_lc_event_7627930 {
@@ -135,8 +134,8 @@ Please register separately for each workshop in the series.</br>
 }
 </style>
 </td> </tr>
-      <tr> <td>April 30, 9 am - 12:30 pm</td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627924" matches with the above code: jQuery("#s_lc_event_7627924")  //-->
-<a id="s_lc_event_7627924" href="https://calendar.library.ucla.edu/event/7627924">Python Session 1</a>
+      <tr> <td>Feb 8, 9 am - 12:30 pm</td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627924" matches with the above code: jQuery("#s_lc_event_7627924")  //-->
+<a id="s_lc_event_10204831" href="https://calendar.library.ucla.edu/event/10204831">REGISTER for Python Day 2 (Feb. 8)</a>  
 <!-- Below is optional element styling  //-->
 <style>
 #s_lc_event_7627924 {
@@ -153,9 +152,10 @@ Please register separately for each workshop in the series.</br>
 }
 </style>
 </td> </tr>
-      <tr> <td>May 7, 9 am - 12:30 pm</td>  <td>
+      <tr> <td>Feb 9, 9 am - 12:30 pm</td>  <td>
 <!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627926" matches with the above code: jQuery("#s_lc_event_7627926")  //-->
-<a id="s_lc_event_7627926" href="https://calendar.library.ucla.edu/event/7627926">Python Session 2</a>
+<a id="s_lc_event_10204864" href="https://calendar.library.ucla.edu/event/10204864">REGISTER for Version Control (GIT)(Feb. 9)</a>  
+
 <!-- Below is optional element styling  //-->
 <style>
 #s_lc_event_7627926 {
