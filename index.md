@@ -90,6 +90,8 @@ displayed if the 'eventbrite' field in the header is not set.
 <!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_10204507" matches with the above code: jQuery("#s_lc_event_10204507")  //-->
 <h2 id="register"> Register Now!</h2>
 
+Please register separately for each workshop in the series.</br>
+
 <a id="s_lc_event_10204507" href="https://calendar.library.ucla.edu/calendar/data-science-center/carpentries-w23-unix">REGISTER for Unix Shell (Feb. 6)</a>  
 <a id="s_lc_event_10204794" href="https://calendar.library.ucla.edu/event/10204794">REGISTER for Python Day 1 (Feb. 7)</a>  
 <a id="s_lc_event_10204831" href="https://calendar.library.ucla.edu/event/10204831">REGISTER for Python Day 2 (Feb. 8)</a>  
