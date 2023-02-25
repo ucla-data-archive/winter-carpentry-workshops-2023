@@ -116,9 +116,9 @@ Please register separately for each workshop in the series.</br>
 #s_lc_event_7627923:hover {
   opacity: 0.9;
 }
-</style>
+<a id="s_lc_event_10204507" href="https://calendar.library.ucla.edu/calendar/data-science-center/carpentries-w23-unix">REGISTER for Unix Shell (Feb. 6)</a>  </style>
 </td> </tr>
-      <tr> <td>April 23, 9 am - 12:30 pm </td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627930" matches with the above code: jQuery("#s_lc_event_7627930")  //-->
+<tr> <td>April 23, 9 am - 12:30 pm </td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627930" matches with the above code: jQuery("#s_lc_event_7627930")  //-->
 <a id="s_lc_event_7627930" href="https://calendar.library.ucla.edu/event/7627930">Intro to Git/Github</a>
 <!-- Below is optional element styling  //-->
 <style>
