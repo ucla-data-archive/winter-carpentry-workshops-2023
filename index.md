@@ -101,9 +101,8 @@ Please register separately for each workshop in the series.</br>
 <div class="row">
 <div class="col-md-8">
 <table class="table table-striped">
-<tr> <td>March 6, 9 am - 12:30 pm</td>  <td><a id="s_lc_event_10204507" href="https://calendar.library.ucla.edu/calendar/data-science-center/carpentries-w23-unix">
+<tr> <td>March 6, 9 am - 12:30 pm</td>  <td><a id="s_lc_event_10204507" href="https://calendar.library.ucla.edu/calendar/data-science-center/carpentries-w23-unix">REGISTER for Unix Shell (Feb. 6)
 <!-- Below is optional element styling  //--></a> 
- REGISTER for Unix Shell (Feb 6) <style>
 #s_lc_event_7627923 {
   background: #2774AE;
   border: 1px solid #2774AE;
