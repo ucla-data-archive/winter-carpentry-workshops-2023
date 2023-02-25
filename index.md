@@ -97,6 +97,93 @@ Please register separately for each workshop in the series.</br>
 <a id="s_lc_event_10204831" href="https://calendar.library.ucla.edu/event/10204831">REGISTER for Python Day 2 (Feb. 8)</a>  
 <a id="s_lc_event_10204864" href="https://calendar.library.ucla.edu/event/10204864">REGISTER for Version Control (GIT)(Feb. 9)</a>  
 
+<!--   start the new registration table
+<div class="row">
+<div class="col-md-8">
+<table class="table table-striped">
+<tr> <td>April 16, 9 am - 12:30 pm</td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627923" matches with the above code: jQuery("#s_lc_event_7627923")  //-->
+<a id="s_lc_event_7627923" href="https://calendar.library.ucla.edu/event/7627923">Intro Unix Shell</a>
+<!-- Below is optional element styling  //-->
+  <style>
+#s_lc_event_7627923 {
+  background: #2774AE;
+  border: 1px solid #2774AE;
+  border-radius: 4px;
+  color: #E7F5F3;
+  font: 14px Arial, Helvetica, Verdana;
+  padding: 8px 20px;
+  cursor: pointer;
+}
+#s_lc_event_7627923:hover {
+  opacity: 0.9;
+}
+</style>
+</td> </tr>
+      <tr> <td>April 23, 9 am - 12:30 pm </td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627930" matches with the above code: jQuery("#s_lc_event_7627930")  //-->
+<a id="s_lc_event_7627930" href="https://calendar.library.ucla.edu/event/7627930">Intro to Git/Github</a>
+<!-- Below is optional element styling  //-->
+<style>
+#s_lc_event_7627930 {
+  background: #2774AE;
+  border: 1px solid #2774AE;
+  border-radius: 4px;
+  color: #F7F2F2;
+  font: 14px Arial, Helvetica, Verdana;
+  padding: 8px 20px;
+  cursor: pointer;
+}
+#s_lc_event_7627930:hover {
+  opacity: 0.9;
+}
+</style>
+</td> </tr>
+      <tr> <td>April 30, 9 am - 12:30 pm</td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627924" matches with the above code: jQuery("#s_lc_event_7627924")  //-->
+<a id="s_lc_event_7627924" href="https://calendar.library.ucla.edu/event/7627924">Python Session 1</a>
+<!-- Below is optional element styling  //-->
+<style>
+#s_lc_event_7627924 {
+  background: #2774AE;
+  border: 1px solid #2774AE;
+  border-radius: 4px;
+  color: #FAF5F5;
+  font: 14px Arial, Helvetica, Verdana;
+  padding: 8px 20px;
+  cursor: pointer;
+}
+#s_lc_event_7627924:hover {
+  opacity: 0.9;
+}
+</style>
+</td> </tr>
+      <tr> <td>May 7, 9 am - 12:30 pm</td>  <td>
+<!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627926" matches with the above code: jQuery("#s_lc_event_7627926")  //-->
+<a id="s_lc_event_7627926" href="https://calendar.library.ucla.edu/event/7627926">Python Session 2</a>
+<!-- Below is optional element styling  //-->
+<style>
+#s_lc_event_7627926 {
+  background: #2774AE;
+  border: 1px solid #2774AE;
+  border-radius: 4px;
+  color: #FAF5F5;
+  font: 14px Arial, Helvetica, Verdana;
+  padding: 8px 20px;
+  cursor: pointer;
+}
+#s_lc_event_7627926:hover {
+  opacity: 0.9;
+}
+</style>
+</td> </tr>    
+  </table>
+    
+</div> 
+</div>
+
+
+-->
+
+
+
 
 <h2 id="general">General Information</h2>
 
