@@ -117,7 +117,7 @@ Please register separately for each workshop in the series.</br>
 }</style>
 </td> </tr>
 <tr> <td>Feb 7, 9 am - 12:30 pm </td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627930" matches with the above code: jQuery("#s_lc_event_7627930")  //-->
-a id="s_lc_event_10204794" href="https://calendar.library.ucla.edu/event/10204794">REGISTER for Python Day 1 (Feb. 7)</a>  
+<a id="s_lc_event_10204794" href="https://calendar.library.ucla.edu/event/10204794">REGISTER for Python Day 1 (Feb. 7)</a>  
 <!-- Below is optional element styling  //-->
 <style>
 #s_lc_event_7627930 {
