@@ -90,7 +90,7 @@ displayed if the 'eventbrite' field in the header is not set.
 <!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_10204507" matches with the above code: jQuery("#s_lc_event_10204507")  //-->
 <h2 id="register"> Register Now!</h2>
 
-<h3>Please register separately for each workshop in the series.</h3>
+<h4>Please register separately for each workshop in the series.
 <!--   start the new registration table  -->
 <div class="row">
 <div class="col-md-8">
@@ -110,7 +110,7 @@ displayed if the 'eventbrite' field in the header is not set.
   opacity: 0.9;
 }</style>
 </td> </tr>
-<tr> <td>Feb 7, 9 am - 12:30 pm </td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627930" matches with the above code: jQuery("#s_lc_event_7627930")  //-->
+<tr> <td>Mar 7, 9 am - 12:30 pm </td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627930" matches with the above code: jQuery("#s_lc_event_7627930")  //-->
 <a id="s_lc_event_10204794" href="https://calendar.library.ucla.edu/event/10204794">REGISTER for Python Day 1 (Feb. 7)</a>  
 <!-- Below is optional element styling  //-->
 <style>
@@ -128,7 +128,7 @@ displayed if the 'eventbrite' field in the header is not set.
 }
 </style>
 </td> </tr>
-      <tr> <td>Feb 8, 9 am - 12:30 pm</td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627924" matches with the above code: jQuery("#s_lc_event_7627924")  //-->
+      <tr> <td>Mar 8, 9 am - 12:30 pm</td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627924" matches with the above code: jQuery("#s_lc_event_7627924")  //-->
 <a id="s_lc_event_10204831" href="https://calendar.library.ucla.edu/event/10204831">REGISTER for Python Day 2 (Feb. 8)</a>  
 <!-- Below is optional element styling  //-->
 <style>
@@ -146,7 +146,7 @@ displayed if the 'eventbrite' field in the header is not set.
 }
 </style>
 </td> </tr>
-      <tr> <td>Feb 9, 9 am - 12:30 pm</td>  <td>
+      <tr> <td>Mar 9, 9 am - 12:30 pm</td>  <td>
 <!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627926" matches with the above code: jQuery("#s_lc_event_7627926")  //-->
 <a id="s_lc_event_10204864" href="https://calendar.library.ucla.edu/event/10204864">REGISTER for Version Control (GIT)(Feb. 9)</a>  
 
@@ -164,6 +164,7 @@ displayed if the 'eventbrite' field in the header is not set.
 #s_lc_event_7627926:hover {
   opacity: 0.9;
 }
+  </h4>
 </style>
 </td> </tr>    
   </table>
