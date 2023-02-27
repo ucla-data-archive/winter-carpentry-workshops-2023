@@ -148,7 +148,7 @@ displayed if the 'eventbrite' field in the header is not set.
 </td> </tr>
       <tr> <td>March 9, 9 am - 12:30 pm</td>  <td>
 <!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627926" matches with the above code: jQuery("#s_lc_event_7627926")  //-->
-<a id="s_lc_event_10204864" href="https://calendar.library.ucla.edu/event/10204864">REGISTER for Version Control (GIT)(March 9)</a>  
+<a id="s_lc_event_10204864" href="https://calendar.library.ucla.edu/event/10204864">REGISTER for Version Control (GIT) (March 9)</a>  
 
 <!-- Below is optional element styling  //-->
 <style>
@@ -398,7 +398,7 @@ available at https://codimd.carpentries.org
 <h2 id="collaborative_notes">Collaborative Notes</h2>
 
 <p>
-We will use this <a href="{{ page.collaborative_notes }}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
+Each workshop will be using an Etherpad collaborative document for chatting, taking notes, and sharing URLs and bits of code.
 </p>
 <hr/>
 {% endif %}
