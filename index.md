@@ -468,7 +468,7 @@ of code below the Schedule `<h2>` header below with
 <h3>Day Three: Python Day 2</h3>       
 <ul>
   <li><a href="http://swcarpentry.github.io/python-novice-gapminder/">Class Website</a></li>       
-  <li><a href="http://swcarpentry.github.io/python-novice-gapminder/">Class Ether Pad</a></li>
+  <li><a href="https://pad.carpentries.org/2023-03-07-python">Class Ether Pad</a></li>
 </ul>
 
 <h3>Day Four: Version Control (GIT)</h3>       
