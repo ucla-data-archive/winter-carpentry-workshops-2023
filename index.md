@@ -453,21 +453,29 @@ of code below the Schedule `<h2>` header below with
 
 <h2 id="schedule">Schedule</h2>   
 <h3>Day One: Unix Shell</h3>    
-<a href="https://swcarpentry.github.io/shell-novice/">Class Website</a>  
-<a href="https://pad.carpentries.org/2023-03-06-unix">Class Ether Pad</a>    
+<ul>
+  <li><a href="https://swcarpentry.github.io/shell-novice/">Class Website</a></li>  
+<li><a href="https://pad.carpentries.org/2023-03-06-unix">Class Ether Pad</a></li>
+</ul>
 
 
 <h3>Day Two: Python Day 1</h3>     
-<a href="http://swcarpentry.github.io/python-novice-gapminder/">Class Website</a>       
-<a href="https://pad.carpentries.org/2023-03-07-python">Class Ether Pad</a>      
+<ul>
+  <li><a href="http://swcarpentry.github.io/python-novice-gapminder/">Class Website</a></li>       
+  <li><a href="https://pad.carpentries.org/2023-03-07-python">Class Ether Pad</a></li>      
+</ul>
 
 <h3>Day Three: Python Day 2</h3>       
-<a href="http://swcarpentry.github.io/python-novice-gapminder/">Class Website</a>       
-<a href="http://swcarpentry.github.io/python-novice-gapminder/">Class Ether Pad</a>         
+<ul>
+  <li><a href="http://swcarpentry.github.io/python-novice-gapminder/">Class Website</a></li>       
+  <li><a href="http://swcarpentry.github.io/python-novice-gapminder/">Class Ether Pad</a></li>
+</ul>
 
 <h3>Day Four: Version Control (GIT)</h3>       
-<a href="https://swcarpentry.github.io/git-novice/">Class Website</a>        
-<a href="https://pad.carpentries.org/2023-02-09-git">Class Ether Pad</a>      
+<ul>
+  <li><a href="https://swcarpentry.github.io/git-novice/">Class Website</a></li>        
+<li><a href="https://pad.carpentries.org/2023-02-09-git">Class Ether Pad</a></li>      
+</ul>
 
 {% comment %}
 Edit/replace the text above if you want to include a schedule table.
