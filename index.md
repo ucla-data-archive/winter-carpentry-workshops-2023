@@ -451,24 +451,23 @@ of code below the Schedule `<h2>` header below with
 `{% include custom-schedule.html %}`.
 {% endcomment %}
 
-<h2 id="schedule">Schedule</h2>
-
+<h2 id="schedule">Schedule</h2>   
 <h3>Day One: Unix Shell</h3>    
-- Class Website:   https://swcarpentry.github.io/shell-novice/  
-- Class Ether Pad:  https://pad.carpentries.org/2023-03-06-unix  
+<a href="https://swcarpentry.github.io/shell-novice/">Class Website</a>  
+<a href=https://pad.carpentries.org/2023-03-06-unix">Class Ether Pad</a>    
 
 
 <h3>Day Two: Python Day 1</h3>     
-- Class Website:   http://swcarpentry.github.io/python-novice-gapminder/   
-- Class Ether Pad:  https://pad.carpentries.org/2023-03-07-python  
+<a href="http://swcarpentry.github.io/python-novice-gapminder/">Class Website</a>       
+<a href=https://pad.carpentries.org/2023-03-07-python">Class Ether Pad</a>      
 
 <h3>Day Three: Python Day 2</h3>       
-- Class Website:   http://swcarpentry.github.io/python-novice-gapminder/   
-- Class Ether Pad:  http://swcarpentry.github.io/python-novice-gapminder/     
+<a href=http://swcarpentry.github.io/python-novice-gapminder/">Class Website</a>       
+<a href=http://swcarpentry.github.io/python-novice-gapminder/">Class Ether Pad</a>         
 
 <h3>Day Four: Version Control (GIT)</h3>       
-- Class Website:   https://swcarpentry.github.io/git-novice/    
-- Class Ether Pad:    https://pad.carpentries.org/2023-02-09-git   
+<a href=https://swcarpentry.github.io/git-novice/">Class Website</a>        
+<a href=https://pad.carpentries.org/2023-02-09-git">Class Ether Pad</a>      
 
 {% comment %}
 Edit/replace the text above if you want to include a schedule table.
