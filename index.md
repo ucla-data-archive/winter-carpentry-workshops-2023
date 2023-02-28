@@ -453,16 +453,22 @@ of code below the Schedule `<h2>` header below with
 
 <h2 id="schedule">Schedule</h2>
 
-{% if site.carpentry == "swc" %}
-{% include swc/schedule.html %}
-{% elsif site.carpentry == "dc" %}
-{% include dc/schedule.html %}
-{% elsif site.carpentry == "lc" %}
-{% include lc/schedule.html %}
-{% elsif site.carpentry == "incubator" %}
-This workshop is teaching a lesson in [The Carpentries Incubator](https://carpentries-incubator.org/).
-Please check [the lesson homepage]({{ site.incubator_lesson_site }}) for a list of lesson sections and estimated timings.
-{% endif %}
+<h3>Day One: Unix Shell</h3>    
+- Class Website:   https://swcarpentry.github.io/shell-novice/  
+- Class Ether Pad:  https://pad.carpentries.org/2023-03-06-unix  
+
+
+<h3>Day Two: Python Day 1</h3>     
+- Class Website:   http://swcarpentry.github.io/python-novice-gapminder/   
+- Class Ether Pad:  https://pad.carpentries.org/2023-03-07-python  
+
+<h3>Day Three: Python Day 2</h3>       
+- Class Website:   http://swcarpentry.github.io/python-novice-gapminder/   
+- Class Ether Pad:  http://swcarpentry.github.io/python-novice-gapminder/     
+
+<h3>Day Four: Version Control (GIT)</h3>       
+- Class Website:   https://swcarpentry.github.io/git-novice/    
+- Class Ether Pad:    https://pad.carpentries.org/2023-02-09-git   
 
 {% comment %}
 Edit/replace the text above if you want to include a schedule table.
