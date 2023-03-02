@@ -90,7 +90,7 @@ displayed if the 'eventbrite' field in the header is not set.
 <!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_10204507" matches with the above code: jQuery("#s_lc_event_10204507")  //-->
 <h2 id="register"> Register Now!</h2>
 
-<h3>Please register separately for each workshop in the series.</he><h4>
+<h3>Please register separately for each workshop in the series.</h3>
 <!--   start the new registration table  -->
 <div class="row">
 <div class="col-md-8">
